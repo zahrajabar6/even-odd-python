@@ -1,6 +1,7 @@
 # python-dart-pass
-I'm really sorry rot the lating submission..
+Hello,
+I'm really sorry for the lating submission..
 the email was in the spam section, and I just noticed it..
-I really want to join the bootcamo and don't want to miss this opportunity..
+I really want to join the bootcamb and don't want to miss this opportunity..
 Thanks..
 
