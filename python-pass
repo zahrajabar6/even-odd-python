@@ -1,13 +1,14 @@
 num=[]
-
 x=int(input("Enter X value:"))
 
-for i in range(0,x):
-   element=int(input())
-   num.append(element)
 
-for i in num: 
-    if(i%2)==0:  
-        print (i, "is even")
+while x>0 and x<=10:
+    for i in range(0,x):
+        element=int(input())
+        num.append(element)
+
+    for i in num: 
+        if(i%2)==0:  
+          print (i, "is even")
     else:
         print (i, "is odd")   
